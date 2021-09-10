@@ -3,6 +3,8 @@
 ### 👊 Sobre mim 
 Depois de muito tempo procrastinando, decidi entrar no mundo da programação.
 Atualmente estou focando em estudar o front-end, porém, estudarei também sobre o back-end!
+</br></br>
+[![davismelo](https://github-readme-stats.vercel.app/api/top-langs/?username=davismelo&hide=html&layout=compact&theme=Cobalt)](https://github.com/davismelo/)
 
 ### 💻 Tecnologias que tenho conhecimento: 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
